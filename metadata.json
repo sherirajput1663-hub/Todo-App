@@ -1,0 +1,5 @@
+{
+  "name": "Copy of React Todo App",
+  "description": "A clean and simple Todo application built with React and Tailwind CSS, designed with a mobile-first, native-like user experience. It allows users to add, complete, and delete tasks, with all data persisted in local storage.",
+  "requestFramePermissions": []
+}
